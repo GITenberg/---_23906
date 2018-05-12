@@ -1,0 +1,58 @@
+_repo: '---_23906'
+_version: 0.1.0
+alternative_title:
+- 西厢记
+- Xi Xiang Ji
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wang, Shifu
+    aliases:
+    - 王實甫
+    - 王实甫
+    birthdate: 1260
+    deathdate: 1316
+    gutenberg_agent_id: '26120'
+    url: http://www.gutenberg.org/2009/agents/26120
+    wikipedia: http://en.wikipedia.org/wiki/Wang_Shifu
+description: "The Story of the Western Wing (traditional Chinese: 西廂記; simplified\
+  \ Chinese: 西厢记; pinyin: Xīxiāng Jì; Wade–Giles: Hsi-hsiang-chi), also translated\
+  \ as Romance of the Western Chamber, is one of the most famous Chinese dramatic\
+  \ works. It was written by the Yuan dynasty playwright Wang Shifu (王實甫), and set\
+  \ during the Tang dynasty. Known as \"China's most popular love comedy,\" it is\
+  \ the story of a young couple consummating their love without parental approval,\
+  \ and has been seen both as a \"lover's bible\" and \"potentially lethal,\" as readers\
+  \ were in danger of pining away under its influence.\nUniversity of California Press\
+  \ has published an English translation.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2007-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23906'
+  wikidata: Q58765
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese drama -- Yuan dynasty, 1260-1368'
+title: 西廂記
+url: http://www.gutenberg.org/ebooks/23906
+wikipedia:
+- https://fr.wikipedia.org/wiki/Xixiang_ji
+- https://sh.wikipedia.org/wiki/Xixiang_ji
+- https://vi.wikisource.org/wiki/T%C3%A2y_s%C6%B0%C6%A1ng_k%C3%BD
+- https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%BB%82%E8%A8%98
+- https://en.wikiquote.org/wiki/The_Story_of_the_Western_Wing
+- https://zh.wikisource.org/wiki/%E8%A5%BF%E5%BB%82%E8%A8%98
+- https://de.wikipedia.org/wiki/Das_Westzimmer
+- https://es.wikipedia.org/wiki/El_Romance_de_la_C%C3%A1mara_Occidental
+- https://vi.wikipedia.org/wiki/T%C3%A2y_s%C6%B0%C6%A1ng_k%C3%BD
+- https://en.wikipedia.org/wiki/The_Story_of_the_Western_Wing
+- https://zh.wikiquote.org/wiki/%E8%A5%BF%E5%BB%82%E8%A8%98
+- https://no.wikipedia.org/wiki/Romansen_om_Vestkammeret
+- https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%8E%A2%E8%AE%B0
+- https://ko.wikipedia.org/wiki/%EC%84%9C%EC%83%81%EA%B8%B0
+- https://zh-min-nan.wikipedia.org/wiki/Se-siong-k%C3%AC
